@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on MERN Stack
+- 🔭 I’m currently working as React Developer 
+- 🔭 I have experience MERN Stack
 - 🌱 I’m currently learning Artifical Intelligence/Deep Learning, Jam Stack
 - 👯 I’m looking to collaborate on Open Source Projects
 
