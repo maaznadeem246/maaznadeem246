@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as React Developer 
-- 🔭 I have experience MERN Stack
+- 🔭 I have experience in MERN Stack
 - 🌱 I’m currently learning Artifical Intelligence/Deep Learning, Jam Stack
 - 👯 I’m looking to collaborate on Open Source Projects
 
