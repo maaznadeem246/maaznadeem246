@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -  Fun fact: ...
 -->
-I am a Web Developer / Software Engineer, Currently doing Job as Front-end React Developer, I am a Passionate Developer.
+I am a Web Developer / Software Engineer, Currently doing Job as **Front-end React Developer**, I am a Passionate Developer.
 
 - 🔭 I always try to learn/explore the latest state of ART/Tech like currently Learning the JAM Stack, Web3, Metaverse, Blockchain.
 - ⚡ I have experience in MERN Stack
