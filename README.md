@@ -8,13 +8,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
+I am a Web Developer / Software Engineer, Currently doing Job as Front-end React Developer, I am a Passionate Developer.
 
-- 🔭 I’m currently working as React Developer 
-- 🔭 I have experience in MERN Stack
-- 🌱 I’m currently learning Jam Stack and in past have explored Artifical Intelligence/Deep Learning, 
+- 🔭 I always try to learn/explore the latest state of ART/Tech like currently Learning the JAM Stack, Web3, Metaverse, Blockchain.
+- ⚡ I have experience in MERN Stack
+- ⚡ In past I have spent time exploring Artificial Intelligence.
 - 👯 I’m looking to collaborate on Open Source Projects
+
 
 
 
