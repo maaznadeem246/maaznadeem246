@@ -10,13 +10,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -  Fun fact: ...
 -->
-### Hi 👋, I am a Front-End Engineer / React Developer
-####  I am a Passionate Developer.
+### Hey, I'm a Software Engineer
 
-- 🔭 I always try to learn/explore the latest state of ART/Tech like currently Learning the **JAM Stack**, **Web3**, **Metaverse**, **Blockchain**.
-- ⚡ I have experience in MERN Stack
-- ⚡ In past I have spent time exploring Artificial Intelligence.
-- 👯 I’m looking to collaborate on Open Source Projects
+I have more then 3 years of experience. Consumes the in-depth knowledge of Full Stack. Mostly my experience is around Web and its ecosystem. Develops quality software with needed architecture and performance. I always explore latest technologies and learn them.
 
 
 <details><summary>Check Skills</summary>
