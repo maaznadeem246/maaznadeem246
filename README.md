@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 ### Hey, I'm a Software Engineer
 
-I have more then 3 years of experience. Consumes the in-depth knowledge of Full Stack. Mostly my experience is around Web and its ecosystem. Develops quality software with needed architecture and performance. I always explore latest technologies and learn them.
+with 4 years of specialized experience in front-end development and building high performance and user-centric web applications. Passionate about exploring the latest tech trends, building and shipping innovative solutions. Actively expanding expertise in Full Stack and Agentic AI. Enthusiastic about continuous learning and regularly attends virtual tech conferences
 
 
 <details><summary>Check Skills</summary>
@@ -20,11 +20,10 @@ I have more then 3 years of experience. Consumes the in-depth knowledge of Full 
 
 #### Technologies I am good in
   
-html5, CSS3, SASS, Tailwind CSS, JavaScript (ES6), Ajax, JSON, jQuery, AlpineJS, ReactJS, Redux toolkit/React Context API, React Spring, MaterialUI. Web Animation, API Integration.
+html5, CSS3, SASS, Tailwind CSS, JavaScript (ES6), ReactJS, Redux toolkit/React Context API/zustand, MaterialUI/shadcnui, NextJs/Astro, Web Animation, API Integration.
   
 #### Other Technologies/tools (experience/familiar):
-
-NextJS, Astro, Node, ExpressJS, MySQL and MongoDB, mongose, Strapi (Headless CMS), Python, Numpy, Pandas, Matplotlib. CI/CD, Github Actions, Surge, Heroku, Vercel, Firebase, AWS Services (Amplify, EC2, S3, Route53, LoadBalancer, CodePipline, CodeDeploy, CodeBuild, IAM Roles, RDS). OOP (Object Oriented Programming), RESTFUL API, Agile Methodology, MVC, Git, GitHub, npm, Postman, Babel, Webpack, React/Redux devtools and chrome devtools.
+Node, ExpressJS, MySQL and MongoDB, mongose, Strapi (Headless CMS), Python, Numpy, Pandas, Matplotlib. CI/CD, Github Actions, Surge, Heroku, Vercel, Firebase, AWS Services (Amplify, EC2, S3, Route53, LoadBalancer, CodePipline, CodeDeploy, CodeBuild, IAM Roles, RDS). OOP (Object Oriented Programming), RESTFUL API, Agile Methodology, MVC, Git, GitHub, npm, Postman, Babel, Webpack, React/Redux devtools and chrome devtools.
 
 </p>
 </details>
